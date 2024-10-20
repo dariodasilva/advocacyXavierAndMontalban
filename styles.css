@@ -161,8 +161,8 @@ form textarea {
     }
 
     .membro img {
-        width: 400px; /* Ajuste o tamanho da imagem */
-        height: 400px; /* Ajuste o tamanho da imagem */
+        width: 320px; /* Ajuste o tamanho da imagem */
+        height: 350%; /* Ajuste o tamanho da imagem */
         border-radius: 10%; /* Para deixar a imagem redonda */
         margin-bottom: 20px; /* Espaço entre a imagem e o texto */
         margin-top: 25px;

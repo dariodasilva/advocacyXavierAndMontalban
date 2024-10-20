@@ -157,7 +157,6 @@ form textarea {
         text-align: center;
         flex: 1 1 30%;
         max-width: 200px;
-        justify-content: center;
     }
 
     .membro img {
@@ -166,7 +165,6 @@ form textarea {
         border-radius: 10%; /* Para deixar a imagem redonda */
         margin-bottom: 20px; /* Espaço entre a imagem e o texto */
         margin-top: 25px;
-        justify-content: center;
     }
 
     .whatsapp-icon {

@@ -59,7 +59,7 @@ nav ul li a {
     text-align: center;
     padding: 50px 0;
     background-color: #2c2f35;
-    justify-content: ce;
+    justify-content: center;
 }
 
 .hero h2 {
@@ -164,6 +164,7 @@ form textarea {
         border-radius: 10%; /* Para deixar a imagem redonda */
         margin-bottom: 20px; /* Espaço entre a imagem e o texto */
         margin-top: 25px;
+        justify-content: center;
     }
 
     .whatsapp-icon {

@@ -133,7 +133,7 @@ form textarea {
 
     .equipe-container {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         flex-wrap: wrap;
         margin-top: 20px;
     }
@@ -164,7 +164,7 @@ form textarea {
         border-radius: 10%; /* Para deixar a imagem redonda */
         margin-bottom: 20px; /* Espaço entre a imagem e o texto */
         margin-top: 25px;
-        justify-content: center;
+        justify-content: space-between;
     }
 
     .whatsapp-icon {

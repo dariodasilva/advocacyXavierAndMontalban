@@ -28,6 +28,7 @@ header {
 }
 
 .logo-img {
+    display: flex;
     width: auto; /* Aumente o tamanho da logo conforme necessário */
     height: auto;
     margin-right: 10px; /* Espaço entre a logo e o texto */
@@ -122,7 +123,7 @@ form textarea {
 
 @media (max-width: 600px) {
     .servicos-container {
-        flex-direction: column;
+        flex-direction: row;
     }
 
     form input,
